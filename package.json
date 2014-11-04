@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "install-bug": "git://github.com/azakus/install-bug#master"
+    "install-bug": "git://github.com/azakus/install-bug#master",
+    "lodash": "^2.4.1"
   }
 }
