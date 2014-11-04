@@ -1,0 +1,14 @@
+{
+  "name": "depends-on-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install-bug": "git://github.com/azakus/install-bug#master"
+  }
+}
